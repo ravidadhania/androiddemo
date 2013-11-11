@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_time__picker_">Time Picker</string>
+    <string name="title_activity_button__custom_">Button Custom</string>
+    <string name="title_activity_seekbar_">Seekbar</string>
+    <string name="title_activity_spinner_">Spinner</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+    <string name="title_activity_context__menu_">Context Menu</string>
+    <string name="menu_add">Addition</string>
+    <string name="menu_sub">Substraction</string>
+    <string name="menu_mul">Multiplication</string>
+    <string name="menu_div">Division</string>
+    <string name="title_activity_web_view_">WebView</string>
+
+</resources>

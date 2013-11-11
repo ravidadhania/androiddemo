@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+	<study id="1">
+		<topic>Pull Parser</topic>
+		<content>Learn how to parse XML using PULL Parser</content>
+		<author>Jack</author>
+		<date>29-July-2013</date>
+	</study>
+</record>

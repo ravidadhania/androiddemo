@@ -1,0 +1,133 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="480dp"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/intent_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Intent" />
+
+            <Button
+                android:id="@+id/date_picker_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Date Picker" />
+
+            <Button
+                android:id="@+id/time_picker_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Time Picker" />
+
+            <Button
+                android:id="@+id/button_event_design_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Button Event and Design" />
+
+            <Button
+                android:id="@+id/popup_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Context Menu - Pop Up" />
+
+            <Button
+                android:id="@+id/spinner_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Spinner" />
+
+            <Button
+                android:id="@+id/seekbar_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="SeekBar" />
+
+            <Button
+                android:id="@+id/web_view_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Web View" />
+
+            <Button
+                android:id="@+id/list_view_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="List View" />
+
+            <Button
+                android:id="@+id/json_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="JSON Parsing" />
+
+            <Button
+                android:id="@+id/xml_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="XML Parsing" />
+
+            <Button
+                android:id="@+id/tab_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Tab View" />
+
+            <Button
+                android:id="@+id/map_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Map View" />
+
+            <Button
+                android:id="@+id/alert_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Alert" />
+
+            <Button
+                android:id="@+id/gcm_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="GCM" />
+
+            <Button
+                android:id="@+id/shared_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Shared Pref" />
+
+            <Button
+                android:id="@+id/facebook_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Facebook" />
+
+            <Button
+                android:id="@+id/noti_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Noitification" />
+
+            <Button
+                android:id="@+id/content_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Content Provider" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
